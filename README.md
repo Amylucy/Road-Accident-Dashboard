@@ -16,4 +16,9 @@ This is a guided project of road accident data in which we are asked to find out
 -Distribution of Road casualties by road surface
 
 **DATASET**
-The data is in an excel file and has 25 fields and about 3million rows
+
+The data is in an Excel file and has 25 fields and about 3 million rows
+
+**DATA CLEANING**
+
+
