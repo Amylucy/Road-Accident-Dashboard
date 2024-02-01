@@ -1,7 +1,7 @@
 # Road-Accident-Dashboard
 **INTRODUCTION**
 
-This is a guided project of road accident data in which we are asked to find out the casualties and how different conditions affect the the severity of the accidents
+This is a guided project of road accident data in which we are asked to find out the casualties and how different conditions affect the severity of the accidents
 
 **PROBLEM STATEMENT**
 
