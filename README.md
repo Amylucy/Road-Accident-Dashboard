@@ -14,3 +14,6 @@ This is a guided project of road accident data in which we are asked to find out
 -Monthly Trend comparing casualties of the current year and the previous year
 
 -Distribution of Road casualties by road surface
+
+**DATASET**
+The data is in an excel file and has 25 fields and about 3million rows
