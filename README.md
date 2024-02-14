@@ -19,8 +19,7 @@ This is a guided project of road accident data in which we are asked to find out
 
 The data is in an Excel file and has 25 fields and about 3 million rows
 
-**TOOLS
-**
+**TOOLS**
 -EXCEL-(Data Cleaning, Data Analysis and Data Visualization)
 
 **DATA CLEANING**
